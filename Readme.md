@@ -10,4 +10,4 @@ Welcome to my GitHub! I'm passionate about building scalable backends, clean API
 
 
 ### 📫 Contact
-Feel free to reach out via GitHub or email if you'd like to collaborate or discuss full stack or backend systems at aryan.aryan@bfhl.in!
+Feel free to reach out via GitHub or email if you'd like to collaborate or discuss full stack or backend systems!
