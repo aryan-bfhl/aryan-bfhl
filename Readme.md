@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm passionate about building scalable backends, clean API
 ### 🏢 About Me
 - 🔧 Working at **Bajaj Finserv Health Limited (BFHL)**
 - 💡 Exploring modern backend architectures
-- 🚀 Learning advanced PostgreSQL with TypeORM
+- 🚀 Learning to build scalable systems
 
 
 
